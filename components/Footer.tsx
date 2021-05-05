@@ -16,7 +16,7 @@ const Footer = () => {
             </a>
           </div>
           <p className="text-gray-900 text-right flex-1 leading-8">
-            Uniform Optimize starter for Next.js © {new Date().getFullYear()}
+            TG - Uniform Optimize starter for Next.js © {new Date().getFullYear()}
           </p>
         </div>
       </div>
